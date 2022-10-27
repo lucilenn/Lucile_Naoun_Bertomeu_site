@@ -1,0 +1,17 @@
+.card-each-collection {
+	background-color: white;
+	margin: 10px;
+	padding: 3px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border-radius: 6px;
+	flex-basis: 250px;
+	flex-grow: 1;
+	font-size: 30px;
+}
+
+.card-each-collection img{
+	width: 300px;
+	border-radius: 6px;
+}

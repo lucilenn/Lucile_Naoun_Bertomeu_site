@@ -1,0 +1,21 @@
+.banner {
+	background-image: url(../../images/banner_marron.jpg);
+	color: whitesmoke;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1{
+	font-size: 50px;
+	back
+}
+
+.banner p{
+	font-size: 30px;
+	color: white;
+}
+
+a {
+	position: center;
+}

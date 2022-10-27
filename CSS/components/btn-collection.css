@@ -1,0 +1,15 @@
+.btn-collection {
+	background-color: black;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: normal;
+	position: center;
+	font-family: 'Poppins', sans-serif;
+	text-underline-position: none;
+}
+
+.btn-collection:hover{
+	background-color: whitesmoke;
+	color: black;
+}

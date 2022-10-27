@@ -1,0 +1,37 @@
+.article {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    align-items: center;
+}
+
+.article h2{
+    font-size: 30px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: white;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-articles{
+    display: flex;
+    justify-content: space-around;
+}
+
+#title-footer{
+    color: whitesmoke;
+    font-size: 50px;
+    text-align: center;
+}
+
+#card-footer{
+    margin-left: auto;
+    margin-right: auto;
+}

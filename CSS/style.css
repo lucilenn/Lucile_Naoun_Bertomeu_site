@@ -1,0 +1,54 @@
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/card-white.css");
+@import url("components/btn-collection.css");
+@import url("components/card-each-collection.css");
+@import url("components/card-winter-collection.css");
+@import url("components/footer.css");
+@import url("components/card-articles.css");
+
+
+body {
+	background: grey;
+	margin: 0px;
+}
+
+h1 {
+	color: white;
+	font-size: 70px;
+	font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+	color: black;
+	font-size: 50px;
+	font-family: 'Poppins', sans-serif;
+}
+
+p {
+	color: black;
+	font-size: 20px;
+	font-family: 'Poppins', sans-serif;
+}
+img{
+	width: 260px;
+	height: 350px;
+}
+
+.list-networks {
+	list-style: none;
+}
+
+.list-networks i {
+	font-size: 30px;
+	color: black;
+}
+
+.list-networks i:hover {
+	color: whitesmoke;
+
+}
+
+a{
+	text-decoration: none;
+}
